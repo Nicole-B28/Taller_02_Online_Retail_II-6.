@@ -366,6 +366,8 @@ La matriz de confusión obtenida fue:
 [[902, 39],
  [ 37,198]]
 
+```
+
 Interpretación:
 - 902 clientes normales fueron correctamente clasificados.
 - 198 clientes Premium fueron correctamente clasificados.
