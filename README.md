@@ -900,6 +900,8 @@ Dia_mes         0.0284
 Mes             0.0072
 Anio            0.0045
 Trimestre       0.0013
+
+```
 La variable más importante fue Media_7, seguida de Lag_7.
 Esto indica que el comportamiento reciente de las ventas y los patrones semanales fueron especialmente relevantes para la predicción.
 
