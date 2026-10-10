@@ -362,6 +362,7 @@ Esto significa que aproximadamente el 93,54% de los clientes del conjunto de pru
 La matriz de confusión obtenida fue:
 
 ```text
+
 [[902, 39],
  [ 37,198]]
 
