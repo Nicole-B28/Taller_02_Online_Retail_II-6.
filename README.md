@@ -1040,6 +1040,7 @@ Entre ellos:
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+```
 
 El entorno virtual .venv se mantiene únicamente de forma local.
 Esto evita subir a GitHub archivos innecesarios o específicos del computador utilizado para desarrollar el proyecto.
