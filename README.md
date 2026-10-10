@@ -38,6 +38,8 @@ Taller_02_Online_Retail_II/
 ├── .gitignore
 └── README.md
 
+```
+
 # 1. Limpieza y análisis exploratorio de datos
 
 La primera etapa del proyecto correspondió a la preparación, limpieza y análisis exploratorio del conjunto de datos Online Retail II.
