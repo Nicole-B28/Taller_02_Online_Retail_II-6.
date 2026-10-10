@@ -2,7 +2,7 @@
 
 ## Descripción del proyecto
 
-Este proyecto analiza el conjunto de datos **Online Retail II**, que contiene transacciones de una empresa de comercio minorista entre diciembre de 2009 y diciembre de 2011.
+Este proyecto analiza el conjunto de datos **Online Retail II**, que contiene transacciones de una empresa de comercio entre diciembre de 2009 y diciembre de 2011.
 
 El trabajo se desarrolló en cuatro etapas principales:
 
