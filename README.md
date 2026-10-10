@@ -1045,7 +1045,7 @@ __pycache__/
 El entorno virtual .venv se mantiene únicamente de forma local.
 Esto evita subir a GitHub archivos innecesarios o específicos del computador utilizado para desarrollar el proyecto.
 
-10. Datos del proyecto
+# 10. Datos del proyecto
 El repositorio conserva:
 - el archivo original online_retail_II.xlsx;
 - el archivo procesado online_retail_II_limpio.csv;
